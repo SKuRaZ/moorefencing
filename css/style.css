@@ -997,6 +997,15 @@
     margin-right: -15px;
     margin-left: -15px;
 }
+@media (max-width: 992px) {
+
+
+    .experiences {
+        width: 132px;
+        height: 170px;}
+}
+
+
 
 @media (max-width: 950px) {
     
@@ -1021,3 +1030,17 @@ p {
     text-align: center;
     padding-top: 12px;
 }
+
+@media (min-width: 992px) {
+
+    .LOKI{
+        display: none;
+    }
+}
+@media (max-width: 992px) {
+    .THOR{
+        display: none;
+    }
+}
+
+
